@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+node_modules/
+/modules/
+
+/mnist_images.png
+/mnist_labels_uint8
+/corrects/
+/wrongs*/
+/downloaded-captcha*
